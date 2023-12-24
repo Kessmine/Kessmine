@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kessmine! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a www.linkedin.com/in/kessmine-flowers-3ababb132>Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Kessmine! <br/>Programmer</a>, <a www.linkedin.com/in/kessmine-flowers-3ababb132>Cybersecurity Analyst</a>, <a 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
